@@ -1,0 +1,8 @@
+# data file here
+/static/images
+
+# default file
+/bin
+/include
+/lib
+
